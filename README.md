@@ -1,6 +1,7 @@
 # Rubik's Cube Simulator
 
 **C implementation of a Rubik’s Cube simulator that executes sequences of layer rotations on an `N x N x N` cube and prints its state.**  
+
 Default cube size is `5x5x5`, but any `N` can be chosen at compile time.
 
 ## Notes
